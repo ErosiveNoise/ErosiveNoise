@@ -21,8 +21,7 @@ I specialize in creating practical applications, teaching programming, and explo
 ---
 
 ## 🚀 Featured Projects
-- [**ProjectName**](https://github.com/yourusername/projectname) — Short description of what this project does.
-- [**AnotherProject**](https://github.com/yourusername/anotherproject) — Brief explanation and why it's interesting.
+- [**Pokedot**](https://github.com/ErosiveNoise/Pokedot) — Pokemon game in Godot C#.
 
 ---
 
